@@ -7,6 +7,7 @@ export default function Home() {
   const[todos, setTodos] = useState<string[]>([]); //したの行をuseState化で保持
   //const todos =["Reactを学ぶ", "TypeScriptを学ぶ"];
   return (
+    //doyou
     <div className="flex justify-center items-center h-screen">
       <div>
       <Card>
