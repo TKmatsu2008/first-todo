@@ -67,6 +67,10 @@ firebase deploy
 - 入力バリデーション（空文字・重複防止）
 - ローカルストレージや外部 DB への永続化
 
+**参考サイト**
+- https://qiita.com/Tomoboo_319/items/dba30847d78de47b8e6b
+ 
+
 ---
 
 作成者: TKmatsu2008
